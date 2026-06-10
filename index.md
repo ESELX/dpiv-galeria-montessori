@@ -24,8 +24,9 @@ group_number: ""
 | Número   | Nome             |
 | -------- | ---------------- |
 | 20024320 | Mafalda Counhago |
-| 20YYYYY  | Aluno B          |
+| 2024292  | Leonor Silva     |
 | 20ZZZZZ  | Aluno C          |
+| 20ccc    | aluno d          |
 
 ---
 
