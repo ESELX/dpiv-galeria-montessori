@@ -24,8 +24,9 @@ group_number: ""
 | Número   | Nome             |
 | -------- | ---------------- |
 | 20024320 | Mafalda Counhago |
-| 20YYYYY  | Aluno B          |
+| 2024292  | Leonor Silva     |
 | 20ZZZZZ  | Aluno C          |
+| 20fffff  | aluno d          |
 
 ---
 
@@ -48,31 +49,6 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
      e tem uma sub-página produtos/<numero>-<nome>/processo.md -->
 
 <!-- markdownlint-disable MD033 -->
-<div class="gallery-grid">
 
-  <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/Xilofone Aprende e Toca/">
-    <img src="produtos/Xilofone Aprende e Toca/attachments/hero.jpg" alt="" />
-    <h3>Xilofone Aprende e Toca</h3>
-    <p>Mafalda Counhago</p>
-  </a>
-<a class="gallery-card" href="produtos/Comboio das Vogais/">
-    <img src="produtos/Comboio das Vogais/attachments/hero.jpg" alt="" />
-    <h3>Comboio das Vogais</h3>
-    <p>Juliana Silva</p>
-  </a>
-<a class="gallery-card" href="produtos/Ninho da Família/">
-    <img src="produtos/Ninho da Família/attachments/hero.jpg" alt="" />
-    <h3>Ninho da Família</h3>
-    <p>Filipa Machado</p>
-  </a>
-  <a class="gallery-card" href="produtos/Cubo e Puzzle de números e formas/">
-    <img src="produtos/Cubo e Puzzle de números e formas/attachments/hero.jpg" alt="" />
-    <h3>Cubo e Puzzle de números e formas</h3>
-    <p>Leonor Silva</p>
-  </a>
-  <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
-</div>
-<!-- markdownlint-enable MD033 -->
