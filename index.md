@@ -1,17 +1,17 @@
 ---
-title: "Nome do Grupo"
+title: Nome do Grupo
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Grupo"
-hero_subtitle: "Design de Produto IV · 2025-26"
+hero_title: Nome do Grupo
+hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "DesignDeProdutoIV"
-group_name: ""
+course: DesignDeProdutoIV
+group_name: Montessori
 group_number: ""
 ---
 
@@ -21,11 +21,11 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número   | Nome             |
+| -------- | ---------------- |
+| 20024320 | Mafalda Counhago |
+| 20YYYYY  | Aluno B          |
+| 20ZZZZZ  | Aluno C          |
 
 ---
 
@@ -52,12 +52,26 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+  <a class="gallery-card" href="produtos/Xilofone Aprende e Toca/">
+    <img src="produtos/Xilofone Aprende e Toca/attachments/hero.jpg" alt="" />
+    <h3>Xilofone Aprende e Toca</h3>
+    <p>Mafalda Counhago</p>
   </a>
-
+<a class="gallery-card" href="produtos/Comboio das Vogais/">
+    <img src="produtos/Comboio das Vogais/attachments/hero.jpg" alt="" />
+    <h3>Comboio das Vogais</h3>
+    <p>Juliana Silva</p>
+  </a>
+<a class="gallery-card" href="produtos/Ninho da Família/">
+    <img src="produtos/Ninho da Família/attachments/hero.jpg" alt="" />
+    <h3>Ninho da Família</h3>
+    <p>Filipa Machado</p>
+  </a>
+  <a class="gallery-card" href="produtos/Cubo e Puzzle de números e formas/">
+    <img src="produtos/Cubo e Puzzle de números e formas/attachments/hero.jpg" alt="" />
+    <h3>Cubo e Puzzle de números e formas</h3>
+    <p>Leonor Silva</p>
+  </a>
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
 </div>
