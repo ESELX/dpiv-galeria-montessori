@@ -1,5 +1,5 @@
 ---
-title: Nome do Produto
+title: Xilofone aprende e toca
 icon: lucide/box
 tags: galeria
 status: not-started
@@ -10,11 +10,16 @@ hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: Montessori
-student_number: ""
+student_name: Mafalda Counhago
+student_number: "2024320"
 ---
 
-# Nome do Produto
+
+
+
+
+
+# Xilofone Aprende e Toca
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -22,20 +27,20 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Cada carta, uma ideia. Cada nota, uma nova criação.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
+![](attachments/final2.png)
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
-
-![](attachments/placeholder.png)
+O meu projeto consiste num xilofone educativo para crianças, desenvolvido com base nos princípios pedagógicos de Maria Montessori. O objetivo principal é proporcionar uma experiência de aprendizagem que combine música, exploração sensorial, desenvolvimento motor e autonomia.
+O instrumento é composto por quatro barras musicais, o dó, mi, sol e o lá, os quais estão organizados para produzir sons distintos e agradáveis. A escolha de um número reduzido de notas torna a utilização mais simples e intuitiva, permitindo que as crianças mais novas consigam criar pequenas melodias com sucesso.
+Além da componente musical, o projeto integra um jogo educativo, transformando o xilofone numa ferramenta de aprendizagem interativa. Através de uma sequência de elementos e associação dos mesmos, incentiva as crianças a desenvolver competências cognitivas como a memória, atenção e a concentração. O jogo permite que a aprendizagem aconteça de forma lúdica, respeitando o ritmo individual de cada criança.
+Este projeto procura unir a música, brincadeira e a educação num só objeto, promovendo o desenvolvimento global da criança. Mais do que um simples instrumento musical, o xilofone é uma ferramenta pedagógica que estimula a criatividade, a autonomia, coordenação motora e a descoberta ativa.
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O desenvolvimento deste projeto enquadra-se na área da educação infantil e da aprendizagem através da exploração sensorial, tendo como principal referência a abordagem pedagógica de Maria Montessori. A escolha desta metodologia surge da sua relevância no contexto do desenvolvimento da criança, defendendo uma aprendizagem ativa, autónoma e centrada nos interesses e capacidades de cada indivíduo.
+Maria Montessori acreditava que as crianças aprendem melhor quando têm a oportunidade de explorar algo de uma forma livre
 
 ## Tecnologia
 
