@@ -43,4 +43,4 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
-![Moodboard](attachments/placeholder.png)
+![Moodboard](attachments/placeholder3.png)
