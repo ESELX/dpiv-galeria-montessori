@@ -33,8 +33,8 @@ Este projeto consiste num brinquedo educativo em madeira que combina números, f
 Destina-se a crianças em idade pré-escolar, numa fase em que o desenvolvimento da motricidade fina, do raciocínio lógico e do reconhecimento numérico assume um papel fundamental. Inspirado nos princípios Montessori, o brinquedo respeita o ritmo individual de cada criança, incentivando a exploração autónoma e a descoberta através da experiência prática.
 A proposta surge da intenção de transformar a aprendizagem dos números numa atividade lúdica e envolvente. Mais do que ensinar conceitos matemáticos básicos, pretende estimular a curiosidade, a criatividade e a capacidade de resolução de problemas, promovendo uma aprendizagem ativa através do brincar.
 
-![](attachments/placeholder.png)
-
+![](attachments/placeholder1.png)
+>**Renderização (Fusion 360)**: Exemplo das duas Brincadeiras possíveis.
 ## Enquadramento
 
 O presente projeto insere-se no contexto dos brinquedos educativos inspirados na metodologia Montessori, privilegiando a aprendizagem através da experimentação e da descoberta ativa. Através da manipulação e exploração do objeto, procura-se estimular competências cognitivas e motoras fundamentais ao desenvolvimento da criança.
@@ -44,10 +44,10 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+O brinquedo foi concebido em madeira de carvalho, material selecionado pela sua resistência, durabilidade e qualidade estética. A estrutura principal do cubo utiliza carvalho natural, enquanto os números e formas geométricas recorrem a carvalho manchado, promovendo um contraste visual que facilita a identificação e associação dos diferentes elementos. Todas as peças foram projetadas para serem produzidas através de corte CNC a partir de placas de madeira com 15 mm de espessura, garantindo precisão nos encaixes e repetibilidade no processo de fabrico. O desenvolvimento técnico foi realizado no Autodesk Fusion 360, recorrendo à modelação paramétrica para definir as geometrias, ajustar as tolerâncias necessárias ao sistema de encaixe e testar virtualmente a montagem do produto. Como resultado deste processo, foram produzidos os ficheiros técnicos digitais necessários à modelação e potencial fabrico do brinquedo.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
+- Modelo 3D:
+  https://a360.co/3PW18YH
 
 ## Função
 
