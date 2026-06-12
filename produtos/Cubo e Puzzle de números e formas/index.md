@@ -51,7 +51,16 @@ O brinquedo foi concebido em madeira de carvalho, material selecionado pela sua 
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+O brinquedo possui uma função educativa, promovendo o desenvolvimento do raciocínio lógico, da coordenação motora fina, da perceção espacial e das primeiras competências matemáticas. A sua dupla funcionalidade permite diferentes formas de interação, aumentando as possibilidades de exploração, descoberta e aprendizagem através da brincadeira.
+
+**Como se brinca?** O brinquedo pode ser utilizado de duas formas principais:
+
+**Cubo** – O utilizador encaixa as diferentes faces para montar o cubo, associando números e formas geométricas e identificando a posição correta de cada peça. Esta atividade estimula a concentração, a resolução de problemas e a compreensão das relações espaciais.
+
+**Puzzle** – Após desmontar o cubo, as peças podem ser reorganizadas e manipuladas individualmente, incentivando a experimentação e a procura de novas soluções de montagem. O desafio consiste em compreender a lógica dos encaixes e reconstruir corretamente a estrutura, promovendo a autonomia, a persistência e o pensamento lógico.
+
+O brinquedo destina-se a crianças com idade igual ou superior a 3 anos. 
+Durante o seu desenvolvimento, foram considerados os princípios gerais da Diretiva 2009/48/CE relativa à segurança dos brinquedos, nomeadamente através da utilização de materiais adequados ao público infantil, da ausência de arestas cortantes e da definição de dimensões que minimizam o risco associado à utilização de pequenas peças.
 
 ## Apresentação
 
