@@ -38,9 +38,8 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
 ## 4. Modelos 3D
 
-Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+ [https://a360.co/4eDZBPl]
 
 ## 5. Outros Modelos
 
@@ -54,13 +53,13 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
+![](attachments/WhatsApp%20Image%202026-06-01%20at%2012.56.54.jpeg)
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+![](attachments/ns.jpg)
 
 ### 7.2. Objetos de referencia
 

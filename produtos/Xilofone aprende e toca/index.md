@@ -28,8 +28,7 @@ student_number: "2024320"
 -->
 
 > Cada carta, uma ideia. Cada nota, uma nova criação.
-
-![](attachments/final2.png)
+![](attachments/obisidian.png)
 ## Conceito
 
 O meu projeto consiste num xilofone educativo para crianças, desenvolvido com base nos princípios pedagógicos de Maria Montessori. O objetivo principal é proporcionar uma experiência de aprendizagem que combine música, exploração sensorial, desenvolvimento motor e autonomia.
@@ -47,14 +46,15 @@ relação deste projeto com o trabalho desenvolvido pelo restante grupo encontra
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+O xilifone foi concebido em madeira de carvalho, o mesmo selecionado pela sua elevada resistência, durabilidade e qualidade estética. A escolha deste material permite obter uma estrutura robusta e adequada à utilização por crianças. A estrutura principal foi desenvolvida a partir de 4 barras, cada uma têm uma escavação/profundidade diferente para produzirem sons diferentes, quanto mais escavado por mais grave o som fica e quanto menos escavada for mais agudo fica o som. Todas elas com 2 cm de espessura,  Dó com 20 cm de comprimento e 6-8 cm de escavação; Mi com 17,7 cm de comprimento e 5-6 de escavação; Sol com 15,8 cm de comprimento e 4-5 de escavação; Lá com 14,9 cm de comprimento e 3-5 de escavação.
+O desenvolvimento técnico foi realizado no Autodesk Fusion 360, recorrendo à modelação paramétrica para definir as geometrias, ajustar medidas e simular a montagem do produto.
+Relativamente aos processos de fabrico, as peças estruturais seriam produzidas através de corte CNC, garantindo precisão dimensional. Nos encaixes foi aplicada a técnica dos dog bones, uma solução que permite obter uniões mais precisas entre diferentes peças, facilitando a montagem do xilifone e aumentando a estabilidade da estrutura. A gravação dos elementos poderia ser realizada através de laser, um processo que permite obter desenhos e símbolos com elevada precisão sem comprometer a resistência ou sonoridade das barras.
 
 - Modelo 3D: [https://a360.co/4eDZBPl](https://a360.co/4eDZBPl)
 - Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 O xilofone educativo foi desenvolvido com o objetivo de promover a aprendizagem através da música. A sua principal função é estimular o desenvolvimento da coordenação motora, da percepção auditiva, da criatividade e autonomia da criança, permitindo que esta aprenda através da experimentação e descoberta.
 A utilização do produto é simples e intuitiva, a criança pode tocar nas diferentes barras com a baqueta para produzir sons distintos e explorar livremente as combinações possíveis. Para além da componente musical, o xilofone integra um jogo educativo que desafia a criança a reproduzir sequências, padrões e associar elementos visuais às notas correspondentes.
 O produto foi concebido para crianças em idade pré-escolar e nos primeiros anos do ensino básico, sendo particularmente entre os 3 aos 6 anos.
@@ -65,10 +65,8 @@ Neste sentido, o xilofone apresenta superfícies lisas e devidamente acabadas, m
 Desta forma, o produto procura responder não apenas aos objetivos educativos e lúdicos definidos no projeto, mas também aos requisitos de segurança e qualidade esperados para um brinquedo destinado ao público infantil, garantindo uma experiência de utilização segura, estimulante e adequada ao seu contexto pedagógico.
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
-
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/obsidian2%201.jpg)
+![](attachments/obsidian3.jpg)
 
 ---
 
