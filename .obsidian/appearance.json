@@ -1,3 +1,5 @@
 {
-  "showViewHeader": true
+  "showViewHeader": true,
+  "accentColor": "#fff700",
+  "theme": "obsidian"
 }

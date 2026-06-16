@@ -1,10 +1,10 @@
 ---
-title: Nome do Grupo
+title: Montessori
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Nome do Grupo
+hero_title: Montessori
 hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
@@ -17,23 +17,27 @@ group_number: ""
 
 # Montessori
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> Através da metodologia Montessori, desenvolvemos experiências lúdicas que promovem a autonomia, a criatividade e a descoberta.
 
 ## Elementos do Grupo
 
 | Número   | Nome             |
 | -------- | ---------------- |
 | 20024320 | Mafalda Counhago |
-| 20YYYYY  | Aluno B          |
-| 20ZZZZZ  | Aluno C          |
+| 2024292  | Leonor Silva     |
+| 2024323  | Juliana Silva    |
+| 2024378  | Filipa Machado   |
 
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
+![](attachments/placeholder2.png)
+> _Imagem gerada por Inteligência Artificial (Chatgpt)_
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
+
+> Esta coleção nasce da convicção de que brincar é uma forma essencial de aprender. Inspirados pela metodologia Montessori, os diferentes brinquedos incentivam a exploração livre, a manipulação de materiais concretos e a descoberta ativa, permitindo que cada criança construa o conhecimento através da experiência.
+> 
+> Apesar dos seus diferentes temas , todos os produtos partilham a mesma intenção, despertar a curiosidade, promover a autonomia e acompanhar o desenvolvimento infantil de forma natural e progressiva. Mais do que oferecer respostas, estas brincadeiras propõem desafios, estimulam a criatividade e convidam as crianças a experimentar, errar, repetir e descobrir ao seu próprio ritmo.
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
@@ -75,4 +79,3 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
 </div>
-<!-- markdownlint-enable MD033 -->
