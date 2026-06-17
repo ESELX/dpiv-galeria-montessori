@@ -35,14 +35,14 @@ As pranchas resumo constituíram uma ferramenta fundamental ao longo do desenvol
 ![](attachments/prancha_resumo01.png)
 > **Primeira proposta conceptual** - Em resposta ao tema proposto para o projeto, foi inicialmente considerada a utilização de restos de madeira provenientes de grandes indústrias. No entanto, após uma análise mais aprofundada, concluiu-se que a quantidade de material necessária à produção do brinquedo tornava esta solução pouco coerente com a premissa de valorização dos excedentes. Esta constatação levou à reformulação da proposta e à exploração de novas possibilidades de desenvolvimento.
 
-## 7. Pesquisa
+## 3. Pesquisa
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 ![](attachments/pesquisa0.png)
 > As referências selecionadas do moodboard evidenciam uma linguagem visual assente na madeira, em geometrias simples e em experiências de aprendizagem concretas. A desconstrução destes elementos permitiu identificar princípios comuns, como a modularidade, a manipulação ativa e a associação entre brincar e aprender. No desenvolvimento deste projeto, estes aspetos foram reinterpretados através de um sistema de encaixe que transforma números e formas geométricas numa experiência tridimensional de descoberta.
 
-### 7.2. Objetos de referencia
+### 3.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
@@ -53,6 +53,6 @@ Inventário de precedentes, brinquedos análogos, referências históricas.
 >  **(Imagem 4) – Numbers Sound Puzzle ** - Aprendizagem dos números através da manipulação direta, influenciou a introdução dos algarismos no Nestor, permitindo estabelecer relações entre símbolos, quantidades e a exploração tátil das peças.
 
 
-## 9. Outros Elementos
+## 4. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
