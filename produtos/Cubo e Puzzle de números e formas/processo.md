@@ -11,7 +11,6 @@ hero_overlay: 0.3
 hero_align: center
 published: true
 ---
-
 # Processo
 
 > Organizado do **mais recente** para o **mais antigo**.
@@ -23,6 +22,10 @@ Embed do Fusion (visualização do modelo paramétrico).
 https://a360.co/3PW18YH
 
 ## 2. Esboços e Pranchas-Resumo
+
+## 2.1 Esboços
+
+## 2.2 Pranchas-Resumo
 
 As pranchas resumo constituíram uma ferramenta fundamental ao longo do desenvolvimento do projeto, permitindo sintetizar ideias, testar soluções e registar as diferentes fases de evolução do brinquedo. Desenvolvidas integralmente em formato digital, estas pranchas reuniram informação relativa ao conceito, à função, aos materiais e às estratégias construtivas, acompanhando as sucessivas reformulações do projeto até à definição da proposta final.
 
