@@ -63,8 +63,7 @@ Durante o seu desenvolvimento, foram considerados os princípios gerais da Diret
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/apresentação.png)
 
 ---
 
