@@ -51,7 +51,6 @@ O desenvolvimento técnico foi realizado no Autodesk Fusion 360, recorrendo à m
 Relativamente aos processos de fabrico, as peças estruturais seriam produzidas através de corte CNC, garantindo precisão dimensional. Nos encaixes foi aplicada a técnica dos dog bones, uma solução que permite obter uniões mais precisas entre diferentes peças, facilitando a montagem do xilifone e aumentando a estabilidade da estrutura. A gravação dos elementos poderia ser realizada através de laser, um processo que permite obter desenhos e símbolos com elevada precisão sem comprometer a resistência ou sonoridade das barras.
 
 - Modelo 3D: [https://a360.co/4eDZBPl](https://a360.co/4eDZBPl)
-- Ficheiros: `attachments/`
 
 ## Função
 

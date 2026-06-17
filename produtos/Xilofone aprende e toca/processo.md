@@ -26,7 +26,7 @@ published: true
 
 
 ## 2. Esboços e Pranchas-Resumo
-
+![](attachments/ns%201.jpg)
 ![](attachments/WhatsApp%20Image%202026-06-17%20at%2015.14.58%20(1)%201.jpeg)
 ![](attachments/WhatsApp%20Image%202026-06-17%20at%2015.14.58%20(2).jpeg)
 ![](attachments/WhatsApp%20Image%202026-06-17%20at%2015.14.58%201.jpeg)
@@ -35,7 +35,7 @@ Foram realizados diferentes esboços, de forma a entender as formas e qual seria
 ![](attachments/WhatsApp%20Image%202026-06-01%20at%2012.56.54.jpeg)
 ![](attachments/6.jpg)
 ![](attachments/7.jpg)
-Realizei ainda testes no fusion das bases e confirmei que a base completa nunca iria funcionar e experimentei diferentes formas de barra e passei por três testes, a barra retangular sem cantos redondos que não seria uma boa opção por segurança e a base escolhida foi a barra com as extremidades todas redondas pois tal como é mais seguro, esteticamente fica mais agradável ao olhar.
+Realizei ainda testes no fusion das bases e confirmei que a base completa nunca iria funcionar e experimentei diferentes formas de barra e passei por três testes, a barra retangular sem cantos redondos que não seria uma boa opção por segurança e a base escolhida foi a barra com as extremidades todas redondas pois torna-se mais seguro e esteticamente fica mais agradável e adequado aos brinquedos de crianças.
 ## 3. Maquete
 
 Maquete realizada em cartão para testar/definir medidas.
@@ -44,12 +44,10 @@ Maquete realizada em cartão para testar/definir medidas.
 
 ### 4.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-
-
-![](attachments/ns.jpg)
-
+![](attachments/moodboard_.jpg)
+No moodboard foram retiradas algumas referências para o início da construção do meu produto, foram retirados elementos como a cor da madeira de carvalho bem como a gravação de números, símbolos e pequenas ilustrações. Estes elementos foram integrados no xilofone de forma a combinar a componente musical com a componente lúdica.
 ### 4.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/inspirações%201.jpg)
+![](attachments/Conjunto%20de%20Brinquedos%20Musicais%20AutorMontessori%20Roux%20&%20Rattle.jpg)
