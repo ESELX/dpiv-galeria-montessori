@@ -28,7 +28,7 @@ student_number: "2024320"
 -->
 
 > Cada carta, uma ideia. Cada nota, uma nova criação.
-![](attachments/obisidian.png)
+![](attachments/obsidian_nome.jpg)
 ## Conceito
 
 O meu projeto consiste num xilofone educativo para crianças, desenvolvido com base nos princípios pedagógicos de Maria Montessori. O objetivo principal é proporcionar uma experiência de aprendizagem que combine música, exploração sensorial, desenvolvimento motor e autonomia.
