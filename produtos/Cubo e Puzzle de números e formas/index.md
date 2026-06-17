@@ -24,12 +24,9 @@ student_number: ""
 
 > Conta, encaixa e descobre.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
 ## Conceito
 
-Este projeto consiste num brinquedo educativo em madeira que combina números, formas geométricas e construção num único objeto. Através de um sistema de encaixe, as peças podem ser montadas para formar um cubo e posteriormente reorganizadas como um puzzle, proporcionando diferentes formas de interação e aprendizagem.
+Este projeto consiste num brinquedo educativo em madeira que combina números, formas geométricas e construção num único objeto. Através de um sistema de encaixe, as peças podem ser montadas para formar um cubo e posteriormente reorganizadas como um Puzzle, proporcionando diferentes formas de interação e aprendizagem.
 Destina-se a crianças em idade pré-escolar, numa fase em que o desenvolvimento da motricidade fina, do raciocínio lógico e do reconhecimento numérico assume um papel fundamental. Inspirado nos princípios Montessori, o brinquedo respeita o ritmo individual de cada criança, incentivando a exploração autónoma e a descoberta através da experiência prática.
 A proposta surge da intenção de transformar a aprendizagem dos números numa atividade lúdica e envolvente. Mais do que ensinar conceitos matemáticos básicos, pretende estimular a curiosidade, a criatividade e a capacidade de resolução de problemas, promovendo uma aprendizagem ativa através do brincar.
 
