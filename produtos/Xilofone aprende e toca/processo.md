@@ -51,3 +51,6 @@ No moodboard foram retiradas algumas referências para o início da construção
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
 ![](attachments/Conjunto%20de%20Brinquedos%20Musicais%20AutorMontessori%20Roux%20&%20Rattle.jpg)
+
+As imagens apresentadas serviram de referência para o desenvolvimento do xilofone. Entre todas as referências analisadas, a que exerceu maior influência foi o Xilofone Musical Infantil, não apenas pela sua estética, mas também pelas formas adotadas nas barras sonoras e na estrutura de suporte inferior, aspetos que foram reinterpretados e adaptados ao conceito final de projeto.
+As restantes imagens constituíram referências iniciais, utilizadas durante a fase de exploração e de seleção do instrumento a desenvolver. A escolha final recaiu sobre o xilofone, por se tratar de um instrumento que estabelece uma boa ligação com a madeira, tanto pelas suas características estéticas como pelas suas propriedades acústicas, permitindo a produção de sons.
