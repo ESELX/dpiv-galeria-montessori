@@ -14,41 +14,13 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
-## 1. Protótipo(s)
-
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
-
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
-
-
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
-
-## 4. Modelos 3D
+## 1. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4nqYoPa
 
-## 5. Outros Modelos
-
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
+## 2. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
@@ -56,18 +28,20 @@ exploração de variantes.
 
 ![](attachments/placeholder.png)
 
-## 7. Pesquisa
+## 3. Pesquisa
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 ![](attachments/placeholder.png)
 
-### 7.2. Objetos de referencia
+### 3.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+![](attachments/referencia.png)
+>**Comboios de madeira** – A estrutura modular do comboio e a utilização de formas simples em madeira inspiraram o desenvolvimento da solução final, evidenciando a componente lúdica, a ligação entre as diferentes peças e a facilidade de manipulação por parte da criança. 
+  **Brinquedos de encaixe de vogais** – A aprendizagem das vogais através da manipulação direta das peças influenciou a criação de uma experiência educativa baseada na exploração, no reconhecimento das letras e na associação entre brincar e aprender.
 
-## 9. Outros Elementos
+## 4. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
