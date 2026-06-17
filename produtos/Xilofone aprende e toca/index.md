@@ -67,7 +67,7 @@ Desta forma, o produto procura responder não apenas aos objetivos educativos e 
 
 ![](attachments/obsidian2%201.jpg)
 ![](attachments/obsidian3.jpg)
-
+![](attachments/WhatsApp%20Image%202026-06-16%20at%2016.15.10.jpeg)
 ---
 
 ## Processo

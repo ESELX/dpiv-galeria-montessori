@@ -41,31 +41,29 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
  [https://a360.co/4eDZBPl]
 
-## 5. Outros Modelos
+## 1. Maquete
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+Maquete realizada em cartão para testar/definir medidas.
+![](attachments/maquete.jpg)
 
-![](attachments/placeholder.png)
 
-## 6. Esboços e Pranchas-Resumo
+## 2. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
 
 ![](attachments/WhatsApp%20Image%202026-06-01%20at%2012.56.54.jpeg)
+![](attachments/6.jpg)
+![](attachments/7.jpg)
+## 3. Pesquisa
 
-## 7. Pesquisa
-
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 ![](attachments/ns.jpg)
 
-### 7.2. Objetos de referencia
+### 3.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+![](attachments/inspirações%201.jpg)
 
 ## 9. Outros Elementos
 
