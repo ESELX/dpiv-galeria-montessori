@@ -4,7 +4,7 @@ icon: lucide/git-branch
 tags: galeria
 status: not-started
 hero_image: ../attachments/hero.jpg
-hero_title: Nome do grupo
+hero_title: Nome do Grupo
 hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
 hero_overlay: 0.3
