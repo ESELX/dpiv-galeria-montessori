@@ -39,7 +39,7 @@ group_number: ""
 > 
 > Apesar dos seus diferentes temas , todos os produtos partilham a mesma intenção, despertar a curiosidade, promover a autonomia e acompanhar o desenvolvimento infantil de forma natural e progressiva. Mais do que oferecer respostas, estas brincadeiras propõem desafios, estimulam a criatividade e convidam as crianças a experimentar, errar, repetir e descobrir ao seu próprio ritmo.
 
-Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
+Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md)
 
 [Ver contexto completo →](contexto.md)
 

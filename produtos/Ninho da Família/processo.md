@@ -1,11 +1,11 @@
 ---
-title: "Processo"
+title: Processo
 icon: lucide/git-branch
 tags: galeria
 status: not-started
 hero_image: ../attachments/hero.jpg
-hero_title: "Processo"
-hero_subtitle: "Iterações, modelos, pesquisa"
+hero_title: Nome do Grupo
+hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
 hero_overlay: 0.3
 hero_align: center
@@ -14,60 +14,41 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
+> Organizado do **mais recente** para o **mais antigo**. 
 
-## 1. Protótipo(s)
-
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
-
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
-
-
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
-
-## 4. Modelos 3D
+## 1. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+https://a360.co/4a3eol8
 
-## 5. Outros Modelos
+## 2. Esboços e Pranchas-Resumo
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+###  2.1 Esboços e Testes
 
-![](attachments/placeholder.png)
+Durante o processo de desenvolvimento foram exploradas diferentes ideias, formas de interação e possibilidades construtivas através de esboços e testes conceptuais. Esta fase permitiu experimentar abordagens diferentes, contribuindo para uma melhor compreensão do objeto e para a definição da proposta final. Embora estas soluções não tenham sido desenvolvidas até ao produto final, tiveram um papel importante na evolução do conceito e na construção do Ninho das Famílias.
 
-## 6. Esboços e Pranchas-Resumo
+![](attachments/esboço.jpg)
+![](attachments/esboço1.jpg)
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+### 2.2 Prancha-Resumo
 
-![](attachments/placeholder.png)
+![](attachments/prancha.jpg)
 
-## 7. Pesquisa
+> Esta prancha-resumo funcionou como um instrumento de síntese e consolidação do processo de desenvolvimento do projeto, reunindo de forma visual as principais decisões construtivas e funcionais do brinquedo. Através de esquissos e representações gráficas, foram exploradas as relações entre os diferentes componentes, os sistemas de montagem e as possibilidades de interação e configuração. A prancha permitiu documentar a evolução das soluções adotadas, desde a definição das peças modulares até à organização estrutural do objeto final, tornando visível o percurso de experimentação e refinamento que conduziu à proposta desenvolvida.
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+## 3. Pesquisa
 
-![](attachments/placeholder.png)
+### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-### 7.2. Objetos de referencia
+![](attachments/teste.jpg)
+
+> As referências selecionadas do moodboard evidenciam uma linguagem visual assente na madeira, em geometrias simples e em experiências de aprendizagem concretas. A desconstrução destes elementos permitiu identificar princípios comuns, como a modularidade, a manipulação ativa e a associação entre brincar e aprender. No desenvolvimento deste projeto, estes aspetos foram reinterpretados através de um sistema de encaixe que transforma números e formas geométricas numa experiência tridimensional de descoberta.
+
+### 3.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+![](attachments/referencias0.jpg)
 
-## 9. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+>  Para desenvolver o Ninho da Família, inspirei-me em dois tipos de brinquedos: os brinquedos de associação, que incentivam as crianças a relacionar imagens e descobrir ligações, e os carrinhos de puxar, que introduzem movimento e uma forma mais livre de explorar o brinquedo. Ao juntar estes dois conceitos, quis criar uma experiência onde as crianças pudessem transportar, encaixar e criar pequenas histórias, associando cada elemento à sua respetiva família. Esta ideia aproxima-se da abordagem Montessori, promovendo a aprendizagem através da descoberta, da autonomia e do brincar.

@@ -46,12 +46,11 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 ![Objeto 1](attachments/redesenhar0.png)
 
-- **Objeto 1** — utilizado como base para o desenvolvimento do cubo, este brinquedo serviu como referência durante o processo de desenvolvimento do projeto, pela forma como combina números, formas geométricas e sistemas de encaixe. A sua análise contribuiu para a exploração de soluções construtivas e para a reflexão sobre a utilização da madeira como material mais sensorial, seguro e adequado ao público infantil.
-- **Objeto 2** — foi utilizado como base Para criar o Ninho das Famílias, juntei a ideia dos brinquedos de associação com os tradicionais carrinhos de puxar em madeira. Quis criar um brinquedo que permitisse às crianças explorar, transportar e criar pequenas histórias enquanto associam cada imagem à sua respetiva família.
-- **Objeto 3** — serviu de inspiração para o desenvolvimento do comboio das vogais, tendo sido escolhida pela sua estética simples em madeira, pelas formas arredondadas e pela composição das diferentes carruagens interligadas.
-- **Objeto 4** — foi utilizada como base para o desenvolvimento do xilofone, tendo sido escolhida pela sua estética simples e apelativa, pelas formas arredondadas das barras e pela estrutura de suporte em madeira.
+> - **Objeto 1** — utilizado como base para o desenvolvimento do cubo, este brinquedo serviu como referência durante o processo de desenvolvimento do projeto, pela forma como combina números, formas geométricas e sistemas de encaixe. A sua análise contribuiu para a exploração de soluções construtivas e para a reflexão sobre a utilização da madeira como material mais sensorial, seguro e adequado ao público infantil.
+> - **Objeto 2** — foi utilizado como base Para criar o Ninho das Famílias, juntei a ideia dos brinquedos de associação com os tradicionais carrinhos de puxar em madeira. Quis criar um brinquedo que permitisse às crianças explorar, transportar e criar pequenas histórias enquanto associam cada imagem à sua respetiva família.
+> - **Objeto 3** — serviu de inspiração para o desenvolvimento do comboio das vogais, tendo sido escolhida pela sua estética simples em madeira, pelas formas arredondadas e pela composição das diferentes carruagens interligadas.
+> - **Objeto 4** — foi utilizada como base para o desenvolvimento do xilofone, tendo sido escolhida pela sua estética simples e apelativa, pelas formas arredondadas das barras e pela estrutura de suporte em madeira.
 
-A inspiração veio do conceito Montessori, valorizando a aprendizagem através da descoberta, da autonomia e do brincar livre.
 
 ### 2.2. Moodboard
 
