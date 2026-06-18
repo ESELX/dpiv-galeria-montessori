@@ -49,8 +49,8 @@ O brinquedo foi concebido em madeira de carvalho, material escolhido pela sua re
 A estrutura do comboio, incluindo a locomotiva, as carruagens e as vogais integradas em cada uma delas, foi projetada para ser produzida através de corte CNC em placas de madeira com espessuras compreendidas entre os 10 mm e os 15 mm. As ligações entre as carruagens são realizadas através de encaixes de madeira, permitindo a montagem e reorganização das peças de forma simples e intuitiva.
 O desenvolvimento técnico foi realizado no Autodesk Fusion 360, recorrendo à modelação paramétrica para definir as geometrias, ajustar as dimensões das peças, garantir o correto funcionamento dos encaixes e testar virtualmente a composição do produto. Foram ainda considerados aspetos ergonómicos, como a inclusão de cantos arredondados e dimensões adequadas ao manuseamento por crianças, assegurando uma experiência de utilização confortável e apropriada ao público-alvo.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
+- Modelo 3D: 
+  https://a360.co/4etTpsN
 
 ## Função
 
@@ -72,10 +72,8 @@ O comboio de vogais apresenta uma função educativa centrada na introdução à
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
----
+![](attachments/placeholder.jpeg)
+![](attachments/placeholder4.png)![](attachments/criança.png)
 
 ## Processo
 
