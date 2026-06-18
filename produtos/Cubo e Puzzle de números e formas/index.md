@@ -34,7 +34,7 @@ A proposta surge da intenção de transformar a aprendizagem dos números numa a
 >**Renderização (Fusion 360)**: Exemplo das duas Brincadeiras possíveis.
 ## Enquadramento
 
-O presente projeto insere-se no contexto dos brinquedos educativos inspirados na metodologia Montessori, privilegiando a aprendizagem através da experimentação e da descoberta ativa. Através da manipulação e exploração do objeto, procura-se estimular competências cognitivas e motoras fundamentais ao desenvolvimento da criança.
+O presente projeto insere-se no contexto dos brinquedos educativos inspirados na metodologia Montessori, privilegiando a aprendizagem através da experimentação e da descoberta ativa.Através da manipulação e exploração do objeto, procura-se estimular competências cognitivas e motoras fundamentais ao desenvolvimento da criança.
 A análise dos objetos recolhidos permitiu reconhecer estratégias comuns, como a modularidade, os sistemas de encaixe e a associação entre formas e números. Estas referências serviram de base ao desenvolvimento do projeto, sendo reinterpretadas numa proposta que articula construção e aprendizagem, incentivando a autonomia e a resolução de desafios através do brincar. 
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
