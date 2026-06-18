@@ -27,9 +27,9 @@ published: true
 
 ## 2. Esboços e Pranchas-Resumo
 ![](attachments/ns%201.jpg)
-![](attachments/WhatsApp%20Image%202026-06-17%20at%2015.14.58%20(1)%201.jpeg)
+![](attachments/WhatsApp%20Image%202026-06-17%20at%2015.14.58%20(1).jpeg)
 ![](attachments/WhatsApp%20Image%202026-06-17%20at%2015.14.58%20(2).jpeg)
-![](attachments/WhatsApp%20Image%202026-06-17%20at%2015.14.58%201.jpeg)
+![](attachments/WhatsApp%20Image%202026-06-17%20at%2015.14.58.jpeg)
 Foram realizados diferentes esboços, de forma a entender as formas e qual seria mais segura para a utilização das crianças, foi também pensado e desenhado dois tipos de bases a qual eu optei por utilizar a base da segunda imagem pois se optasse por uma base completa iria abafar o som produzido pelas barras do xilofone.
 
 ![](attachments/WhatsApp%20Image%202026-06-01%20at%2012.56.54.jpeg)

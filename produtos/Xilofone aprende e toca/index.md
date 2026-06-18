@@ -66,7 +66,7 @@ Neste sentido, o xilofone apresenta superfícies lisas e devidamente acabadas, m
 Desta forma, o produto procura responder não apenas aos objetivos educativos e lúdicos definidos no projeto, mas também aos requisitos de segurança e qualidade esperados para um brinquedo destinado ao público infantil, garantindo uma experiência de utilização segura, estimulante e adequada ao seu contexto pedagógico.
 ## Apresentação
 
-![](attachments/obsidian2%201.jpg)
+![](attachments/obsidian2.jpg)
 ![](attachments/obsidian3.jpg)
 ![](attachments/WhatsApp%20Image%202026-06-16%20at%2016.15.10.jpeg)
 ---
