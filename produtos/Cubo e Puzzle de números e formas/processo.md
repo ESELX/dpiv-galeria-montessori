@@ -69,8 +69,10 @@ Inventário de precedentes, brinquedos análogos, referências históricas.
 
 ## 4. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).8
+As versões intermédias desenvolvidas no Autodesk Fusion 360 permitiram explorar diferentes sistemas de encaixe e testar o comportamento das peças durante a montagem do brinquedo. Estes modelos funcionaram como ferramentas de experimentação e validação, possibilitando a identificação de problemas e o aperfeiçoamento progressivo da solução até à definição da proposta final.
 
-https://a360.co/4gs6mWL tentativa 1
+**tentativa 1**
+https://a360.co/4gs6mWL 
 
-https://a360.co/3S6xn8e tentativa 2
+**tentativa 2**
+https://a360.co/3S6xn8e 
