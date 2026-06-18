@@ -35,15 +35,15 @@ https://a360.co/3PW18YH
 
 As pranchas resumo constituíram uma ferramenta fundamental ao longo do desenvolvimento do projeto, permitindo sintetizar ideias, testar soluções e registar as diferentes fases de evolução do brinquedo. Desenvolvidas integralmente em formato digital, estas pranchas reuniram informação relativa ao conceito, à função, aos materiais e às estratégias construtivas, acompanhando as sucessivas reformulações do projeto até à definição da proposta final.
 
-![](attachments/prancha_resumo03.png)
+![](attachments/prancharesumo3.png)
 
 > **Prancha resumo final** - Esta versão consolida as principais decisões tomadas ao longo do processo de desenvolvimento, traduzindo a solução definitiva do projeto. A partir desta proposta foram definidos os aspetos técnicos e funcionais necessários à modelação tridimensional e à concretização do brinquedo.
 
-![](attachments/prancha_resumo02.png)
+![](attachments/prancharesumo2.png)
 
 > **Segunda proposta de desenvolvimento** - Nesta fase foram introduzidas alterações significativas relativamente à solução inicial, procurando simplificar a estrutura do brinquedo e otimizar a utilização dos materiais. Apesar dos progressos alcançados, verifiquei que a dinâmica da brincadeira permanecia demasiado limitada, conduzindo à necessidade de enriquecer a experiência de utilização e reforçar o potencial educativo do objeto.
 
-![](attachments/prancha_resumo01.png)
+![](attachments/prancharesumo1.png)
 
 > **Primeira proposta conceptual** - Em resposta ao tema proposto para o projeto, foi inicialmente considerada a utilização de restos de madeira provenientes de grandes indústrias. No entanto, após uma análise mais aprofundada, concluiu-se que a quantidade de material necessária à produção do brinquedo tornava esta solução pouco coerente com a premissa de valorização dos excedentes. Esta constatação levou à reformulação da proposta e à exploração de novas possibilidades de desenvolvimento.
 
