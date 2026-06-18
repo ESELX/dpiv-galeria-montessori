@@ -25,7 +25,10 @@ https://a360.co/3PW18YH
 
 ## 2.1 Esboços
 
+> Foram desenvolvidos vários esboços ao longo do projeto com o objetivo de explorar diferentes soluções formais e funcionais. Em todas as propostas, a minha principal preocupação esteve relacionada com os sistemas de encaixe e com a forma como as peças se relacionavam entre si durante a montagem e utilização do brinquedo. Através destes estudos foi possível testar diferentes abordagens, identificar limitações e aperfeiçoar progressivamente o conceito, culminando na solução final apresentada.
+
 ![](attachments/esboço.png)
+
 ![](attachments/esboço01.png)
 
 ## 2.2 Pranchas-Resumo
@@ -67,3 +70,7 @@ Inventário de precedentes, brinquedos análogos, referências históricas.
 ## 4. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).8
+
+https://a360.co/4gs6mWL tentativa 1
+
+https://a360.co/3S6xn8e tentativa 2
