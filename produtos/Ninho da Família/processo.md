@@ -24,6 +24,14 @@ https://a360.co/4a3eol8
 
 ## 2. Esboços e Pranchas-Resumo
 
+###  2.1 Esboços e Testes
+
+Durante o processo de desenvolvimento foram exploradas diferentes ideias, formas de interação e possibilidades construtivas através de esboços e testes conceptuais. Esta fase permitiu experimentar abordagens diferentes, contribuindo para uma melhor compreensão do objeto e para a definição da proposta final. Embora estas soluções não tenham sido desenvolvidas até ao produto final, tiveram um papel importante na evolução do conceito e na construção do Ninho das Famílias.
+
+![](attachments/esboço.jpg)
+![](attachments/esboço1.jpg)
+
+### 2.2 Prancha-Resumo
 
 ![](attachments/prancha.jpg)
 
@@ -33,7 +41,7 @@ https://a360.co/4a3eol8
 
 ### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/pesquisa0.png)
+![](attachments/teste.jpg)
 
 > As referências selecionadas do moodboard evidenciam uma linguagem visual assente na madeira, em geometrias simples e em experiências de aprendizagem concretas. A desconstrução destes elementos permitiu identificar princípios comuns, como a modularidade, a manipulação ativa e a associação entre brincar e aprender. No desenvolvimento deste projeto, estes aspetos foram reinterpretados através de um sistema de encaixe que transforma números e formas geométricas numa experiência tridimensional de descoberta.
 
@@ -41,20 +49,6 @@ https://a360.co/4a3eol8
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/referencias.png)
+![](attachments/referencias0.jpg)
 
->  **(Imagem 1) – Shape-Sorting Cube** - Sistemas de encaixe entre formas geométricas, inspirou a associação entre cada peça e o respetivo espaço, promovendo o reconhecimento das formas, a coordenação motora fina e a resolução de problemas através da experimentação.
->  **(Imagem 2) – Self-Correcting Number Puzzles** - Autocorreção como estratégia de aprendizagem, inspirou a criação de desafios onde a própria criança consegue identificar os erros e encontrar soluções de forma autónoma, respeitando o seu ritmo de descoberta.
->  **(Imagem 3) – The Very Hungry Caterpillar** - Introdução de conceitos matemáticos básicos através da narrativa e da repetição, reforçou a ideia de que a aprendizagem dos números pode acontecer de forma lúdica, intuitiva e integrada na experiência da brincadeira.
->  **(Imagem 4) – Numbers Sound Puzzle** - Aprendizagem dos números através da manipulação direta, influenciou a introdução dos algarismos no Nestor, permitindo estabelecer relações entre símbolos, quantidades e a exploração tátil das peças.
-
-
-## 4. Outros Elementos
-
-As versões intermédias desenvolvidas no Autodesk Fusion 360 permitiram explorar diferentes sistemas de encaixe e testar o comportamento das peças durante a montagem do brinquedo. Estes modelos funcionaram como ferramentas de experimentação e validação, possibilitando a identificação de problemas e o aperfeiçoamento progressivo da solução até à definição da proposta final.
-
-**tentativa 1**
-https://a360.co/4gs6mWL 
-
-**tentativa 2**
-https://a360.co/3S6xn8e 
+>  Para desenvolver o Ninho da Família, inspirei-me em dois tipos de brinquedos: os brinquedos de associação, que incentivam as crianças a relacionar imagens e descobrir ligações, e os carrinhos de puxar, que introduzem movimento e uma forma mais livre de explorar o brinquedo. Ao juntar estes dois conceitos, quis criar uma experiência onde as crianças pudessem transportar, encaixar e criar pequenas histórias, associando cada elemento à sua respetiva família. Esta ideia aproxima-se da abordagem Montessori, promovendo a aprendizagem através da descoberta, da autonomia e do brincar.
