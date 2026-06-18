@@ -4,7 +4,7 @@ icon: lucide/git-branch
 tags: galeria
 status: not-started
 hero_image: ../attachments/hero.jpg
-hero_title: Nome do Grupo
+hero_title: Cubo e Puzzle de números e formas
 hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
 hero_overlay: 0.3

@@ -4,7 +4,7 @@ icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Nome do Grupo
+hero_title: Cubo e Puzzle de números e formas
 hero_subtitle: Leonor Silva · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
