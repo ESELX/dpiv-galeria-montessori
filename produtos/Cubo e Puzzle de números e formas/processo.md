@@ -25,6 +25,9 @@ https://a360.co/3PW18YH
 
 ## 2.1 Esboços
 
+![](attachments/esboço.png)
+![](attachments/esboço01.png)
+
 ## 2.2 Pranchas-Resumo
 
 As pranchas resumo constituíram uma ferramenta fundamental ao longo do desenvolvimento do projeto, permitindo sintetizar ideias, testar soluções e registar as diferentes fases de evolução do brinquedo. Desenvolvidas integralmente em formato digital, estas pranchas reuniram informação relativa ao conceito, à função, aos materiais e às estratégias construtivas, acompanhando as sucessivas reformulações do projeto até à definição da proposta final.
