@@ -4,7 +4,7 @@ icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Ninho da Família
+hero_title: Nome do grupo
 hero_subtitle: Filipa Machado · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
