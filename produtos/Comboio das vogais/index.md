@@ -24,9 +24,6 @@ student_number: ""
 
 > Letras que despertam imaginação.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
 ## Conceito
 
 O comboio de vogais é um brinquedo educativo em madeira que procura introduzir as crianças ao reconhecimento e à sequência das vogais através de uma experiência simples e lúdica. Constituído por uma locomotiva e cinco carruagens identificadas com as vogais, o brinquedo desafia a criança a organizá-las pela ordem correta, podendo depois ser utilizado como um comboio convencional, incentivando o brincar livre e imaginativo.
